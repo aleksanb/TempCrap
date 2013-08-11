@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvId"
+                android:layout_gravity="left|center_vertical"
+                android:text="18"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Station"
+                android:id="@+id/tvName"
+                android:layout_above="@+id/tvAvailable"
+                android:layout_toRightOf="@+id/tvId"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="0 / 10 available."
+                android:id="@+id/tvAvailable"
+                android:layout_gravity="left|center_vertical"
+                android:layout_alignBottom="@+id/tvId"
+                android:layout_toRightOf="@+id/tvId"/>
+
+</RelativeLayout>

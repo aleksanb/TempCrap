@@ -1,0 +1,25 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370052114000 515 a550d285d3cae8a4e6d94af19a390470d630d2c9 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$layout.class
+1370052114000 458 3f5e1e30c19ea35850c18f853fc18808624e8bdc /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$dimen.class
+1369944383000 293672 872693211fd68d1c4e116cf90021603207725e19 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/libs/jsoup-1.7.2.jar
+1369942778000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/libs/android-support-v4.jar
+1370052114000 540 bd2cf6de6242db6de7a8ca7ae88a236b64d47d34 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$string.class
+1370052114000 7434 9ad645cecaff4488403ea133172dba0c6615140c /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Sykler.class
+1370052114000 4693 567bd400bea073b6d2bff774cc875eb7d0994906 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/FetchStationsTask.class
+1370052114000 622 580a8c53684f3ed6a745f2e251cc863a918eb0df /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$id.class
+1370052114000 1338 40ba193520a4025bff7ab3d3905476afb0ca6750 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Sykler$DrawerItemClickListener.class
+1370052114000 667 c8d37c9b3ad6c34795f9f3e64340228ff56a0824 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R.class
+1370052114000 474 c56758eb224c40a7c010e8a868aa30c9bc928a59 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$drawable.class
+1370052114000 1921 c1a442910b4b127f64b2c40ebde5df7ed0e9f612 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/StationFragment.class
+1370052114000 285 27351ef10fd3347f0cdc11ed5770a24b80f38b96 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Elements.class
+1370052114000 387 66ff9bcdd550f49e00caeaed5a15ed5f95f7d25c /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$menu.class
+1370052114000 1724 30414d3613a124aeac8b1f601a9a516706196524 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Sykler$1.class
+1371851253000 864 8907d598453e788b2e54d04abff3966018cec79b /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/MainFragment.class
+1370052114000 2982 9359a54051fecf685ad5d5bd624f55c2c29c087f /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Stations.class
+1370052114000 2633 5a8c9ad6400fa1ca1c1c3df048528c2e9ff8c2ee /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/StationAdapter.class
+1370052114000 428 cc0ff79cf9cbc839dae7bdcb058d465117223a80 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$style.class
+1370052114000 1393 48a4639166c2ef4d449925dda054521702a51800 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/Sykler$2.class
+1370052114000 337 c20b60dabfe0755ce9183f492c6d3a93c6ab07d8 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/R$attr.class
+1370052114000 343 4321fd24bbd2c21891d5cb540ff4de26c0b153b3 /home/aleksanb/AndroidStudioProjects/Sykler/Sykler/build/classes/debug/com/burkow/sykler/BuildConfig.class
